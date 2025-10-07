@@ -9,6 +9,7 @@ Real-time lottery and betting platform solutions.
 - [**keno-backend**](https://github.com/pyramid-betting-solutions/keno-backend) - Spring Boot backend
 - [**keno-frontend**](https://github.com/pyramid-betting-solutions/keno-frontend) - Cashier interface
 - [**keno-display**](https://github.com/pyramid-betting-solutions/keno-display) - Real-time display
+- [**keno-admin**](https://github.com/pyramid-betting-solutions/keno-admin) - Admin Dashboard
 
 ### Infrastructure
 - [**infrastructure**](https://github.com/pyramid-betting-solutions/infrastructure) - Deployment & DevOps
