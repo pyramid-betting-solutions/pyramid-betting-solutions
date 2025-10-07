@@ -6,12 +6,12 @@ Real-time lottery and betting platform solutions.
 ## 🚀 Projects
 
 ### Core Platform
-- [**lottery-backend**](https://github.com/pyramid-betting-solutions/lottery-backend) - Spring Boot backend
-- [**lottery-frontend**](https://github.com/pyramid-betting-solutions/lottery-frontend) - Cashier interface
-- [**lottery-display**](https://github.com/pyramid-betting-solutions/lottery-display) - Real-time display
+- [**lottery-backend**](https://github.com/pyramid-betting-solutions/keno-backend) - Spring Boot backend
+- [**lottery-frontend**](https://github.com/pyramid-betting-solutions/keno-frontend) - Cashier interface
+- [**lottery-display**](https://github.com/pyramid-betting-solutions/keno-display) - Real-time display
 
 ### Infrastructure
-- [**lottery-infrastructure**](https://github.com/pyramid-betting-solutions/lottery-infrastructure) - Deployment & DevOps
+- [**lottery-infrastructure**](https://github.com/pyramid-betting-solutions/keno-infrastructure) - Deployment & DevOps
 
 ## 📚 Documentation
 - [Architecture Decision Records](./architecture/decisions)
